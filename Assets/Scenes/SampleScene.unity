@@ -1520,11 +1520,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Camera: {fileID: 330585545}
-  m_AudioListener: {fileID: 0}
+  m_AudioListener: {fileID: 330585544}
   m_Actions: {fileID: -944628639613478452, guid: b08e90b9cd3694753a33fbed896498c9,
     type: 3}
-  m_CanvasScalers:
-  - {fileID: 1970601400}
+  m_CanvasScalers: []
   m_OnPlayerConnected:
     m_PersistentCalls:
       m_Calls: []
@@ -1570,7 +1569,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 581.67004, y: -543}
+  m_AnchoredPosition: {x: 581.67004, y: -546}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &365089666
@@ -2557,8 +2556,8 @@ MonoBehaviour:
     m_Transform: {fileID: 0}
     m_Rigidbody: {fileID: 1534795157}
     m_UseKinematic: 0
-    m_Force: 20000
-    m_Damping: 10
+    m_Force: 60000
+    m_Damping: 5
   m_RaycastOnObject:
     m_WorldOffset: {x: 0, y: 0, z: 0}
     m_ConstrainToLocalPlane: 0
