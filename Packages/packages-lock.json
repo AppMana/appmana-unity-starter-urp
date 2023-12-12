@@ -6,10 +6,11 @@
       "source": "git",
       "dependencies": {
         "com.unity.inputsystem": "1.5.0",
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+        "com.unity.nuget.newtonsoft-json": "1.0.0",
+        "com.cysharp.unitask": "2.3.3",
+        "com.neuecc.unirx": "7.1.0"
       },
-      "hash": "2b8f9870623bcdc1bb1cf93aadb2b018c5e575f6"
+      "hash": "bb5be27bf2ebfc01ab3741612a97e439d53d96c3"
     },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
@@ -93,6 +94,13 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.1.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
