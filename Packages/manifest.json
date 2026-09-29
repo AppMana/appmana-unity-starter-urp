@@ -46,6 +46,7 @@
         "com.unity.modules.video": "1.0.0",
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.wind": "1.0.0",
-        "com.unity.modules.xr": "1.0.0"
+        "com.unity.modules.xr": "1.0.0",
+        "com.appmana.unity": "https://github.com/AppMana/appmana-unity-plugin-private.git#8cb4e2d226bf54d7c57106bba6b936a8e6a1e008"
     }
 }
