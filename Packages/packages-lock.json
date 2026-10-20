@@ -323,7 +323,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.webrtc": {
-      "version": "https://github.com/AppMana/forks-com.unity.webrtc.git#9ed7e6a23798d3ad998e1596157c44e919a00cf4",
+      "version": "https://github.com/AppMana/forks-com.unity.webrtc.git#6720e539ef44ac61c2f80fe56157973818600e5f",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -331,7 +331,7 @@
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.modules.audio": "1.0.0"
       },
-      "hash": "9ed7e6a23798d3ad998e1596157c44e919a00cf4"
+      "hash": "6720e539ef44ac61c2f80fe56157973818600e5f"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
