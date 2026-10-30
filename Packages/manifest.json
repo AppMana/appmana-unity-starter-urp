@@ -21,7 +21,7 @@
     "com.unity.toolchain.linux-x86_64-linux": "1.1.0",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.9",
-    "com.unity.webrtc": "https://github.com/AppMana/forks-com.unity.webrtc.git#6720e539ef44ac61c2f80fe56157973818600e5f",
+    "com.unity.webrtc": "https://github.com/AppMana/forks-com.unity.webrtc.git#0e0495a821baa2e58d4b2e308aa38a154782571c",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
