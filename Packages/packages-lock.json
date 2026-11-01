@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.appmana.unity": {
-      "version": "https://github.com/AppMana/appmana-unity-plugin-private.git#485e420fa287aca1e3f9258154a34201bcb1496c",
+      "version": "https://github.com/AppMana/appmana-unity-plugin-private.git#288d53d64f1e17036f190682c3dc1cd8f36bbde6",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -12,7 +12,7 @@
         "com.cysharp.unitask": "2.3.3",
         "com.neuecc.unirx": "7.1.0"
       },
-      "hash": "485e420fa287aca1e3f9258154a34201bcb1496c"
+      "hash": "288d53d64f1e17036f190682c3dc1cd8f36bbde6"
     },
     "com.appmana.unity.public": {
       "version": "https://github.com/AppMana/appmana-unity-plugin.git#52690b223e9ab09aeee4964abf30f3d596e14209",
