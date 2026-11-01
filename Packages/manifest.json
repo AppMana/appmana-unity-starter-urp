@@ -1,7 +1,7 @@
 {
   "testables": ["com.appmana.unity.public"],
   "dependencies": {
-    "com.appmana.unity": "https://github.com/AppMana/appmana-unity-plugin-private.git#288d53d64f1e17036f190682c3dc1cd8f36bbde6",
+    "com.appmana.unity": "https://github.com/AppMana/appmana-unity-plugin-private.git#ae98b08e83630b6fc0ce990d5212e046fd8e9693",
     "com.appmana.unity.public": "https://github.com/AppMana/appmana-unity-plugin.git#52690b223e9ab09aeee4964abf30f3d596e14209",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
