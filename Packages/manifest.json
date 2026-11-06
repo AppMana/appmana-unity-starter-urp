@@ -1,8 +1,10 @@
 {
-  "testables": ["com.appmana.unity.public"],
+  "testables": [
+    "com.appmana.unity.public"
+  ],
   "dependencies": {
-    "com.appmana.unity": "https://github.com/AppMana/appmana-unity-plugin-private.git#9e3f78d9b1d9c873f401c75dc232066f498f010a",
-    "com.appmana.unity.public": "https://github.com/AppMana/appmana-unity-plugin.git#2ef3ad7b6ee71a67ed3f42c5054b7a98c6d40d7b",
+    "com.appmana.unity": "https://github.com/AppMana/appmana-unity-plugin-private.git#v2.2.4",
+    "com.appmana.unity.public": "https://github.com/AppMana/appmana-unity-plugin.git#v3.0.4",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
     "com.unity.ai.navigation": "2.0.10",
@@ -21,7 +23,7 @@
     "com.unity.toolchain.linux-x86_64-linux": "1.1.0",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.9",
-    "com.unity.webrtc": "https://github.com/AppMana/forks-com.unity.webrtc.git#0e0495a821baa2e58d4b2e308aa38a154782571c",
+    "com.unity.webrtc": "https://github.com/AppMana/forks-com.unity.webrtc.git#v3.0.0-pre.7-appmana.3",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
